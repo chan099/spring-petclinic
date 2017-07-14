@@ -476,4 +476,10 @@
    </profiles>
 
     <url>demopetclinic</url>
+    <distributionManagement>
+  <snapshotRepository>
+    <id>avokodo_snapshot</id>
+    <url>http://localhost:8081/nexus/content/repositories/avokodo_snapshot</url>
+  </snapshotRepository>
+</distributionManagement>
 </project>
