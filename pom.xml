@@ -482,4 +482,10 @@
     <url>http://localhost:8081/nexus/content/repositories/avokodo_snapshot</url>
   </snapshotRepository>
 </distributionManagement>
+<distributionManagement>
+  <repository>
+    <id>avokodo_release</id>
+    <url>http://localhost:8081/nexus/content/repositories/avokodo_release</url>
+  </repository>
+</distributionManagement>
 </project>
